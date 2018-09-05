@@ -1,0 +1,21 @@
+{
+  "name": "trainingJest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testWatch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-import": "^1.8.0",
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "regenerator-runtime": "^0.12.1"
+  }
+}
